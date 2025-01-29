@@ -34,3 +34,11 @@ Run the script in an R environment to reproduce the analysis:
 ```r
 source("pbmc_analysis.R")
 ```
+
+## Screenshots
+![1](https://github.com/user-attachments/assets/47abdb4b-e26a-4985-8519-90d2fbba0f66)
+![2](https://github.com/user-attachments/assets/a6b1dbab-3c15-4a21-8293-00fa9bc34b66)
+![3](https://github.com/user-attachments/assets/5d837ba6-8ea8-44e6-9354-89bbf6370c96)
+![4](https://github.com/user-attachments/assets/74b86de1-3a00-48bd-9189-0697fc72e42e)
+![5](https://github.com/user-attachments/assets/77f6b3dc-8187-4809-a59b-307cf75dbad9)
+![6](https://github.com/user-attachments/assets/82d9372b-c0a1-47a5-b97b-f906adfbd904)
